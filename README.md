@@ -34,4 +34,5 @@ A React and TypeScript-based web application that allows users to filter and exp
   - Example: `https://cdn.imagin.studio/getImage?customer=hrjavascript-mastery&make=BMW&modelFamily=m4`  
 
 ## 🔍 Preview
+![CarRental](https://github.com/user-attachments/assets/92eaae2c-25d9-4cc7-b76f-e17cb6458add)
 
